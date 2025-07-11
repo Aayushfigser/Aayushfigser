@@ -4,6 +4,7 @@ My WORK -
 We've Build SuperAi For Working Professionals that Help them to Create, Manage, Evaluate Tasks & Link multiple Tools for. Agentic ability in one Tap and Automate Entire Desktop work flow.
 
 Published back to back 4 Academic Research Paper in the field of Artificial intelligence.
+Link- https://www.irejournals.com/paper-details/1709296
 
 Author of Book: अपर्णकृति (Aparnkriti) (Buy exclusive on notionpress)
 Link: https://notionpress.com/read/aparnkriti
