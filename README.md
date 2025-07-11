@@ -1,21 +1,20 @@
-Hi there! 👋
+My intro - I'm polymath. I'm Founder, creative person, i do Research works and some hobbies like writing.
 
-🚀 About Me
+My WORK -
+We've Build SuperAi For Working Professionals that Help them to Create, Manage, Evaluate Tasks & Link multiple Tools for. Agentic ability in one Tap and Automate Entire Desktop work flow.
 
-I am a passionate developer and innovator with expertise in:
+Published back to back 4 Academic Research Paper in the field of Artificial intelligence.
 
-Literally i wanted to tell but i can't so Sorry
+Author of Book: अपर्णकृति (Aparnkriti) (Buy exclusive on notionpress)
+Link: https://notionpress.com/read/aparnkriti
 
-🔥 Current Projects
+Software projects: spelesports.com, tenseAi, recoillife.com, esamudaay.in, amazon.ca and others
+Content designing projects: All content of website Spelesports.com, esamudaay.in, oswal books and many more with political parties.
 
-Sorry But i never wanted to reveal Now..beacuse i want to learn and learn.
+#Technologies: Javascript, CSS, HTML, Python, C++, Generative Ai, LLM basics & AI
+#frameworks: React , Node, tailwind & others
 
-🌟 Connect With Me
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
-
-Twitter: Your Twitter Handle
-
-
+Ayush figser worked with RecoilLife which is software company and Ayush Maurya is co-founder and CEO of Tenseai or TENSEAI 
+1. RecoilLife: Co-founder 
+2. TenseAi: Founder & CEO
+3. MyCyberSecurity: Software Engineer
